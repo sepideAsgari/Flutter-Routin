@@ -25,3 +25,6 @@ shamsi_date: ^1.0.2
 url_launcher: ^6.2.5
 package_info_plus: ^5.0.1
 fluttertoast: ^8.2.4
+
+## Download for android
+http://cafebazaar.ir/app/?id=com.aishid.routine&ref=share
