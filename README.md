@@ -30,7 +30,7 @@ This application is a useful program for reminding you of your daily tasks and h
 
 To install and use this app, you can either use the Bazaar platform or use the web application  in the address below. Please note that due to issues related to sanctions, we are unable to upload the app to Google Play in Iran.
 
-aishid-routine.ir
+http://aishid-routine.ir
 
 ## Download for android
 http://cafebazaar.ir/app/?id=com.aishid.routine&ref=share
